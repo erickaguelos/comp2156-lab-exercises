@@ -1,0 +1,12 @@
+{
+  "name": "comp2156-lab-exercises",
+  "version": "1.0.0",
+  "description": "COMP2156 Lab Exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "Ericka Joy Guelos",
+  "license": "ISC"
+}
