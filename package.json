@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
-    "ci": "echo \"Error: no ci cofigured\""
+    "ci": "echo \"Error: no ci configured\""
   },
   "keywords": [],
   "author": "Ericka Joy Guelos",
