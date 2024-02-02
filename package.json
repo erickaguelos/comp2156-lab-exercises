@@ -4,7 +4,8 @@
   "description": "COMP2156 Lab Exercises",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo \"Error: no ci cofigured\""
   },
   "keywords": [],
   "author": "Ericka Joy Guelos",
