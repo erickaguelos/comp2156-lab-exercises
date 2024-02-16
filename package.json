@@ -3,11 +3,34 @@
   "version": "1.0.0",
   "description": "COMP2156 Lab Exercises",
   "main": "index.js",
+  "homepage": "https://erickaguelos.github.io/comp2156-lab-exercises/",
   "scripts": {
-    "test": "echo \"Error: no test specified\"",
-    "ci": "echo \"Error: no ci configured\""
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "echo \"Warning: No tests created yet.\"",
+    "eject": "react-scripts eject"
   },
   "keywords": [],
   "author": "Ericka Joy Guelos",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4",
+    "travis": "^0.1.1",
+    "yarn": "^1.13.0"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]  
 }
