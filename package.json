@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "COMP2156 Lab Exercises",
   "main": "index.js",
+  "homepage": "https://erickaguelos.github.io/comp2156-lab-exercises/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
